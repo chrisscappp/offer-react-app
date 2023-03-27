@@ -1,0 +1,79 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Сусанин Виталий Леопардович",
+            "age": 40,
+            "login": "sus23",
+            "password": "ex123",
+            "developer": "frontend",
+            "role": "admin",
+            "portfolio": [
+                {
+                    "projectId": 1,
+                    "projectTitle": "Интернет магазин",
+                    "projectLink": "https://github.com/chrisscappp/internet-store"
+                },
+                {
+                    "projectId": 2,
+                    "projectTitle": "Динамическая сортировка",
+                    "projectLink": "https://github.com/chrisscappp/dynamic-sort"
+                }
+            ],
+            "skills": ["JavaScript", "ReactJS", "Redux"],
+            "education": [
+                {
+                    "eduId": 1,
+                    "eduName": "КГУ Дигер",
+                    "eduYearOf": "2010"
+                },
+                {
+                    "eduId": 2,
+                    "eduName": "СОШ Метро",
+                    "eduYearOf": "1990"
+                }
+            ],
+            "contacts": {
+                "phone": "89113423433",
+                "email": "sus67@mail.ru",
+                "vkLink": "https://vk.com/chrisscapp",
+                "telegramLink": ""
+            }
+        },
+        {
+            "id": 2,
+            "name": "Катамаранов Игорь Натальевич",
+            "age": 34,
+            "login": "skipidar23",
+            "password": "zinka",
+            "developer": "backend",
+            "role": "user",
+            "portfolio": [
+                {
+                    "projectId": 1,
+                    "projectTitle": "Генератор QR-кодов",
+                    "projectLink": "https://github.com/chrisscappp/QRCode-generator"
+                }
+            ],
+            "skills": ["Python", "Fast API", "Jango"],
+            "education": [
+                {
+                    "eduId": 1,
+                    "eduName": "МГУ",
+                    "eduYearOf": "2009"
+                },
+                {
+                    "eduId": 2,
+                    "eduName": "СОШ Скипадар",
+                    "eduYearOf": "2003"
+                }
+            ],
+            "contacts": {
+                "phone": "89113423433",
+                "email": "katamaran90@mail.ru",
+                "vkLink": "noLink",
+                "telegramLink": "noLink"
+            }
+        }
+    ]
+}

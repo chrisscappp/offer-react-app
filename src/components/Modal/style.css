@@ -1,0 +1,8 @@
+.modal-form__wrapper {
+    display: flex;
+    width: 350px;
+    height: 200px;
+    background-color: #cdcdcd;
+    box-shadow: 0.1em 0.3em 5px rgba(122,122,122,0.5);
+}
+

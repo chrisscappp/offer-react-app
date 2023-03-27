@@ -1,0 +1,14 @@
+.loginModal-container__header {
+    display: flex;
+    width: 350px;
+    justify-content: space-between;
+}
+
+.loginModal-container__header-title {
+    margin-left: 6px;
+}
+
+.loginModal-container__header-close {
+    margin-top: 6px;
+    margin-right: 6px;
+}

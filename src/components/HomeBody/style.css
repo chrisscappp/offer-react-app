@@ -1,0 +1,40 @@
+.home-body__wrapper {
+    width: 898px;
+    height: 900px;
+    position: absolute;
+    top: 15%;
+    left: 19.5%;
+    overflow: auto;
+}
+
+.home-body__wrapper-container__header-wrapper {
+    height: 350px;
+    background-color: #EAEAEA;
+    border-radius: 35px;
+    box-shadow: 0em 0.2em 5px rgba(122,122,122,0.5);
+}
+
+.home-body__wrapper-container__body-wrapper {
+    margin-top: 60px;
+    height: 350px;
+}
+
+.home-body__wrapper-container__body-wrapper-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-body__wrapper-container__body-wrapper-container__reviews-container {
+    width: 420px;
+    height: 350px;
+    border-radius: 35px;
+    
+}
+
+.home-body__wrapper-container__body-wrapper-container__getstarted-container {
+    width: 431px;
+    height: 350px;
+    background-color: #EAEAEA;
+    border-radius: 35px;
+    box-shadow: 0em 0.2em 5px rgba(122,122,122,0.5);
+}
